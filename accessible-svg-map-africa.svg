@@ -542,4 +542,5 @@
    <set attributeName="visibility" from="hidden" to="visible" begin="Algeria.mouseover" end="Algeria.mouseout"></set>
   </text>
  </g>
+ 
 </svg>
