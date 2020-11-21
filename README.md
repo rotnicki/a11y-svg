@@ -1,9 +1,5 @@
 # a11y-svg
 
-#:gb:
+## :gb: Accessbile SVG images - examples.
 
-Accessbile SVG images - examples.
-
-#:poland:
-
-Dostepne obrazki SVG - przykłsdy.
+## :poland: Dostepne obrazki SVG - przykłsdy.
