@@ -1,5 +1,4 @@
 # a11y-svg
 
-Accessbile SVG graphic file examples.
-
-Dostepne grafiki SVG - przykłsdy 
+Accessbile SVG images - examples.
+Dostepne obrazki SVG - przykłsdy.
