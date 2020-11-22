@@ -9,7 +9,7 @@
   <style type="text/css" id="style_css_sheet">
     .map
     {
-       fill:#070;
+       fill:#FFA500;
        fill-opacity:1;
        stroke:#000;
        stroke-width:0;
