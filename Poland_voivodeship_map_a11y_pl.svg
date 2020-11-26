@@ -19,7 +19,7 @@
     }
   </style>
 
-  <rect x="0" width="497" height="463" rx="80" />
+  <text x="10" y="440" font-size="14">województwo zachodniopomorskie</text>
 
   <path
      class="map"
