@@ -12,7 +12,7 @@
   <style type="text/css" id="style_css_sheet">
     .map
     {
-       fill:orage;
+       fill:orange;
        fill-opacity:1;
        stroke:#000;
        stroke-width:0;
